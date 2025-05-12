@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here is a walkthrough of the app:
 
-MyFirstApp Walkthrough](https://imgur.com/a/fYJY3rW.gif)
+MyFirstApp Walkthrough (https://imgur.com/a/fYJY3rW.gif)
 
 ## App Brainstorming
 
