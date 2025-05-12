@@ -4,7 +4,7 @@ Submitted by: **Tahmid Hossain Rafi**
 
 **MyFirstApp** is a simple iOS app that allows users to change the background color of the screen by tapping a button.
 
-Time spent: **2 hours** spent in total
+Time spent: **5 hours** spent in total
 
 ## Required Features
 
