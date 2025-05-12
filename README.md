@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - Users see a screen with three labels and a button.
 - Tapping the button changes the screen color to a random color.
 
-## 📹 Video Walkthrough
+## Video Walkthrough
 
 Here is a walkthrough of the app:
 
